@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I'm a computer engineering student
-- 🔭 I'm currently working as a FrontEnd Developer with technologies such as HTML, JS, CSS, and FLUIG tools
+- 🔭 I'm currently working as a FrontEnd Developer with technologies such as HTML, JS, CSS and FLUIG tools
 - 🌱 I’m currently learning languagens C-like, Python, Flutter
  
 <div style="display: inline_block" align="center"><br>
